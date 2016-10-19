@@ -1,0 +1,2 @@
+# Graphics--Sprite-Animation
+It was a project about using sprite sheets for creating animations. Using sprite sheets have many advantages in animations. I developed 2 basic games using sprites. The code was written in SFML which provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network and is a library that uses functions of OpenGL.
